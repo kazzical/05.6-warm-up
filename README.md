@@ -9,4 +9,3 @@ Bonus
 3. Use a method to sort the `produce` array in alphabetical order.
 4. Use a method to reverse the order of the `produce` array.
 5. Create a new variable called `produceString` and use the join method to convert the produce array into a string with each item separated by a semicolon (;)
-6.Use the `insertAdjacentHTML` method to add the `produceString` to the end of the <body> element.
