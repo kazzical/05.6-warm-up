@@ -1,6 +1,6 @@
 ## ALFT: M5L4 - Warm-up '24
 
-1. Add a method to add an additional vegetable to the `vegetables` array.
+1. Use a method to add an additional vegetable to the `vegetables` array.
 2. Can you make the vegetable you added appear first in the list?
 
 Bonus
